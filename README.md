@@ -1,3 +1,7 @@
+# Deploy to bluemix 
+```
+<a href="https://bluemix.net/deploy?repository=https://github.com/dongshik/bluemix-objectstorage-sample-liberty.git" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
+
 # Getting started with the IBM Object Storage for Bluemix service using a Java server application
 
 IBM® Object Storage for Bluemix® provides a fully distributed storage platform that you can use to easily store or back up files for your applications. [Read more about it in the documentation here](https://console.ng.bluemix.net/docs/services/ObjectStorage/index.html).

@@ -2,7 +2,9 @@ applications:
 - path: target/BluemixObjectStorageLibertySampleApp.war
   memory: 512M
   instances: 1
-  domain: stage1.mybluemix.net
-  name: your-bluemix-liberty-app-name
-  host: your-bluemix-liberty-app-name
+  domain: mybluemix.net
+  name: ObjectStorageSampleApp-1534
+  host: ObjectStorageSampleApp-1534
   disk_quota: 1024M
+  services:
+  - Object Storage-g1
